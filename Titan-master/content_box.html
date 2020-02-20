@@ -284,20 +284,27 @@
 
       function drawChart() {
         var data = google.visualization.arrayToDataTable([
-          ['Year', 'Sales'],
-          ['2014', 1000],
-          ['2015', 1170],
-          ['2016', 660],
-          ['2017', 1030 ],
-		  ['2018', 2000 ]
+          ['Day', 'Rs'],
+          ['20', 1000],
+          ['21', 561],
+          ['22', 770],
+          ['23', 0],
+		  ['24', 0 ],
+		  ['25', 0],
+		  ['26', 0 ],
+		  ['27', 0],
+		  ['28', 0 ]
+		
+		 
         ]);
 
         var options = {
           chart: {
-            title: 'Company Performance',
-            subtitle: 'Sales: 2014-2017',
+            title: 'Rating Analysis',
+            subtitle: 'Feb 20-28',
           }
         };
+
 
         var chart = new google.charts.Bar(document.getElementById('columnchart_material'));
 
