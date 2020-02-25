@@ -46,184 +46,31 @@
           <div class="collapse navbar-collapse" id="custom-collapse">
             <ul class="nav navbar-nav navbar-right">
               <li class="dropdown"><a class="dropdown-toggle" href="#" data-toggle="dropdown">Home</a>
-                <ul class="dropdown-menu">
-                  <li><a href="index_mp_fullscreen_video_background.html">Default</a></li>
-                  <li><a href="index_op_fullscreen_gradient_overlay.html">One Page</a></li>
-                  <li><a href="index_agency.html">Agency</a></li>
-                  <li><a href="index_portfolio.html">Portfolio</a></li>
-                  <li><a href="index_restaurant.html">Restaurant</a></li>
-                  <li><a href="index_finance.html">Finance</a></li>
-                  <li><a href="index_landing.html">Landing Page</a></li>
-                  <li><a href="index_photography.html">Photography</a></li>
-                  <li><a href="index_shop.html">Shop</a></li>
-                </ul>
               </li>
               <li class="dropdown"><a class="dropdown-toggle" href="#" data-toggle="dropdown">FEED</a>
                 <ul class="dropdown-menu">
                   <li class="dropdown"><a class="dropdown-toggle" href="#" data-toggle="dropdown">Static Image Header</a>
-                    <ul class="dropdown-menu">
-                      <li><a href="index_mp_fullscreen_static.html">Fulscreen</a></li>
-                      <li><a href="index_mp_classic_static.html">Classic</a></li>
-                    </ul>
+                    
                   </li>
-                  <li class="dropdown"><a class="dropdown-toggle" href="#" data-toggle="dropdown">Flexslider Header</a>
-                    <ul class="dropdown-menu">
-                      <li><a href="index_mp_fullscreen_flexslider.html">Fulscreen</a></li>
-                      <li><a href="index_mp_classic_flexslider.html">Classic</a></li>
-                    </ul>
-                  </li>
-                  <li class="dropdown"><a class="dropdown-toggle" href="#" data-toggle="dropdown">Video Background Header</a>
-                    <ul class="dropdown-menu">
-                      <li><a href="index_mp_fullscreen_video_background.html">Fulscreen</a></li>
-                      <li><a href="index_mp_classic_video_background.html">Classic</a></li>
-                    </ul>
-                  </li>
-                  <li class="dropdown"><a class="dropdown-toggle" href="#" data-toggle="dropdown">Text Rotator Header</a>
-                    <ul class="dropdown-menu">
-                      <li><a href="index_mp_fullscreen_text_rotator.html">Fulscreen</a></li>
-                      <li><a href="index_mp_classic_text_rotator.html">Classic</a></li>
-                    </ul>
-                  </li>
-                  <li class="dropdown"><a class="dropdown-toggle" href="#" data-toggle="dropdown">Gradient Overlay Header</a>
-                    <ul class="dropdown-menu">
-                      <li><a href="index_mp_fullscreen_gradient_overlay.html">Fulscreen</a></li>
-                      <li><a href="index_mp_classic_gradient_overlay.html">Classic</a></li>
-                    </ul>
-                  </li>
+                  
                 </ul>
               </li>
               <li class="dropdown"><a class="dropdown-toggle" href="#" data-toggle="dropdown">PAYOUT</a>
                 <ul class="dropdown-menu">
                   <li class="dropdown"><a class="dropdown-toggle" href="#" data-toggle="dropdown">DAILY</a>
-                    <ul class="dropdown-menu">
-                      <li><a href="about1.html">About 1</a></li>
-                      <li><a href="about2.html">About 2</a></li>
-                      <li><a href="about3.html">About 3</a></li>
-                      <li><a href="about4.html">About 4</a></li>
-                      <li><a href="about5.html">About 5</a></li>
-                    </ul>
+                   </li>
+                  <li class="dropdown"><a  href="dd.html">WEEKLY</a>
                   </li>
-                  <li class="dropdown"><a  href="khushiloses.html">WEEKLY</a>
-                    
+                  <li class="dropdown"><a href="dd.html">MONTHLY</a>
                   </li>
-                  <li class="dropdown"><a class="dropdown-toggle" href="#" data-toggle="dropdown">MONTHLY</a>
-                    <ul class="dropdown-menu">
-                      <li><a href="pricing1.html">Pricing 1</a></li>
-                      <li><a href="pricing2.html">Pricing 2</a></li>
-                    </ul>
-                  </li>
-                  </ul>
-                </li>
+                 </ul>
+               </li>
                   
               <li class="dropdown"><a class="dropdown-toggle" href="#" data-toggle="dropdown">RANKING</a>
-                <ul class="dropdown-menu" role="menu">
-                  <li class="dropdown"><a class="dropdown-toggle" href="#" data-toggle="dropdown">Boxed</a>
-                    <ul class="dropdown-menu">
-                      <li><a href="portfolio_boxed_col_2.html">2 Columns</a></li>
-                      <li><a href="portfolio_boxed_col_3.html">3 Columns</a></li>
-                      <li><a href="portfolio_boxed_col_4.html">4 Columns</a></li>
-                    </ul>
-                  </li>
-                  <li class="dropdown"><a class="dropdown-toggle" href="#" data-toggle="dropdown">Boxed - Gutter</a>
-                    <ul class="dropdown-menu">
-                      <li><a href="portfolio_boxed_gutter_col_2.html">2 Columns</a></li>
-                      <li><a href="portfolio_boxed_gutter_col_3.html">3 Columns</a></li>
-                      <li><a href="portfolio_boxed_gutter_col_4.html">4 Columns</a></li>
-                    </ul>
-                  </li>
-                  <li class="dropdown"><a class="dropdown-toggle" href="#" data-toggle="dropdown">Full Width</a>
-                    <ul class="dropdown-menu">
-                      <li><a href="portfolio_full_width_col_2.html">2 Columns</a></li>
-                      <li><a href="portfolio_full_width_col_3.html">3 Columns</a></li>
-                      <li><a href="portfolio_full_width_col_4.html">4 Columns</a></li>
-                    </ul>
-                  </li>
-                  <li class="dropdown"><a class="dropdown-toggle" href="#" data-toggle="dropdown">Full Width - Gutter</a>
-                    <ul class="dropdown-menu">
-                      <li><a href="portfolio_full_width_gutter_col_2.html">2 Columns</a></li>
-                      <li><a href="portfolio_full_width_gutter_col_3.html">3 Columns</a></li>
-                      <li><a href="portfolio_full_width_gutter_col_4.html">4 Columns</a></li>
-                    </ul>
-                  </li>
-                  <li class="dropdown"><a class="dropdown-toggle" href="#" data-toggle="dropdown">Masonry</a>
-                    <ul class="dropdown-menu">
-                      <li class="dropdown"><a class="dropdown-toggle" href="#" data-toggle="dropdown">Boxed</a>
-                        <ul class="dropdown-menu">
-                          <li><a href="portfolio_masonry_boxed_col_2.html">2 Columns</a></li>
-                          <li><a href="portfolio_masonry_boxed_col_3.html">3 Columns</a></li>
-                          <li><a href="portfolio_masonry_boxed_col_4.html">4 Columns</a></li>
-                        </ul>
-                      </li>
-                      <li class="dropdown"><a class="dropdown-toggle" href="#" data-toggle="dropdown">Full Width</a>
-                        <ul class="dropdown-menu">
-                          <li><a href="portfolio_masonry_full_width_col_2.html">2 Columns</a></li>
-                          <li><a href="portfolio_masonry_full_width_col_3.html">3 Columns</a></li>
-                          <li><a href="portfolio_masonry_full_width_col_4.html">4 Columns</a></li>
-                        </ul>
-                      </li>
-                    </ul>
-                  </li>
-                  <li class="dropdown"><a class="dropdown-toggle" href="#" data-toggle="dropdown">Hover Style</a>
-                    <ul class="dropdown-menu">
-                      <li><a href="portfolio_hover_black.html">Black</a></li>
-                      <li><a href="portfolio_hover_gradient.html">Gradient</a></li>
-                    </ul>
-                  </li>
-                  <li class="dropdown"><a class="dropdown-toggle" href="#" data-toggle="dropdown">Single</a>
-                    <ul class="dropdown-menu">
-                      <li class="dropdown"><a class="dropdown-toggle" href="#" data-toggle="dropdown">Featured Image</a>
-                        <ul class="dropdown-menu">
-                          <li><a href="portfolio_single_featured_image1.html">Style 1</a></li>
-                          <li><a href="portfolio_single_featured_image2.html">Style 2</a></li>
-                        </ul>
-                      </li>
-                      <li class="dropdown"><a class="dropdown-toggle" href="#" data-toggle="dropdown">Featured Slider</a>
-                        <ul class="dropdown-menu">
-                          <li><a href="portfolio_single_featured_slider1.html">Style 1</a></li>
-                          <li><a href="portfolio_single_featured_slider2.html">Style 2</a></li>
-                        </ul>
-                      </li>
-                      <li class="dropdown"><a class="dropdown-toggle" href="#" data-toggle="dropdown">Featured Video</a>
-                        <ul class="dropdown-menu">
-                          <li><a href="portfolio_single_featured_video1.html">Style 1</a></li>
-                          <li><a href="portfolio_single_featured_video2.html">Style 2</a></li>
-                        </ul>
-                      </li>
-                    </ul>
-                  </li>
-                </ul>
               </li>
-              <li class="dropdown"><a class="dropdown-toggle" href="#" data-toggle="dropdown">DEPOSIT</a>
-                <ul class="dropdown-menu" role="menu">
-                  <li class="dropdown"><a class="dropdown-toggle" href="#" data-toggle="dropdown">Standard</a>
-                    <ul class="dropdown-menu">
-                      <li><a href="blog_standard_left_sidebar.html">Left Sidebar</a></li>
-                      <li><a href="blog_standard_right_sidebar.html">Right Sidebar</a></li>
-                    </ul>
-                  </li>
-                  <li class="dropdown"><a class="dropdown-toggle" href="#" data-toggle="dropdown">Grid</a>
-                    <ul class="dropdown-menu">
-                      <li><a href="blog_grid_col_2.html">2 Columns</a></li>
-                      <li><a href="blog_grid_col_3.html">3 Columns</a></li>
-                      <li><a href="blog_grid_col_4.html">4 Columns</a></li>
-                    </ul>
-                  </li>
-                  <li class="dropdown"><a class="dropdown-toggle" href="#" data-toggle="dropdown">Masonry</a>
-                    <ul class="dropdown-menu">
-                      <li><a href="blog_grid_masonry_col_2.html">2 Columns</a></li>
-                      <li><a href="blog_grid_masonry_col_3.html">3 Columns</a></li>
-                      <li><a href="blog_grid_masonry_col_4.html">4 Columns</a></li>
-                    </ul>
-                  </li>
-                  <li class="dropdown"><a class="dropdown-toggle" href="#" data-toggle="dropdown">Single</a>
-                    <ul class="dropdown-menu">
-                      <li><a href="blog_single_left_sidebar.html">Left Sidebar</a></li>
-                      <li><a href="blog_single_right_sidebar.html">Right Sidebar</a></li>
-                    </ul>
-                  </li>
-                </ul>
-              </li>
-              <li class="dropdown"><a class="dropdown-toggle" href="#" data-toggle="dropdown">MORE</a>
+              <li><a  href="depositbro.html" >DEPOSIT</a>
+             </li>
+             <li class="dropdown"><a class="dropdown-toggle" href="#" data-toggle="dropdown">MORE</a>
                 <ul class="dropdown-menu" role="menu">
                   <li><a href="alerts-and-wells.html"><i class="fa fa-bolt"></i>Manage Profile</a></li>
                   <li><a href="buttons.html"><i class="fa fa-link fa-sm"></i> Rate Card</a></li>
@@ -233,6 +80,8 @@
                   <li><a href="icons.html"><i class="fa fa-star"></i> History </a></li>
                  </ul>
               </li>
+      </ul>
+          </li>
           </div>
         </div>
       </nav>
